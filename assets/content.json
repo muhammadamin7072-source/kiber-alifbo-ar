@@ -1,0 +1,147 @@
+[
+  [
+    "A",
+    "ANTIVIRUS",
+    "Zararli dasturlardan himoya qiladi."
+  ],
+  [
+    "B",
+    "BOTNET",
+    "Zararlangan qurilmalar tarmog'i."
+  ],
+  [
+    "D",
+    "DoS/DDoS",
+    "Tizimni ommaviy so'rovlar bilan ishdan chiqaradi."
+  ],
+  [
+    "E",
+    "EXPLOIT",
+    "Tizim zaifliklaridan foydalanish usuli."
+  ],
+  [
+    "F",
+    "FISHING",
+    "Foydalanuvchini aldab ma'lumotlarni qo'lga kiritish."
+  ],
+  [
+    "G",
+    "GRAYWARE",
+    "Xavf tug'diruvchi shubhali dasturlar."
+  ],
+  [
+    "H",
+    "HAKER",
+    "Tizim zaifliklarini aniqlovchi shaxs."
+  ],
+  [
+    "I",
+    "IDS/IPS",
+    "Hujumlarni aniqlash va oldini olish tizimi."
+  ],
+  [
+    "J",
+    "JAILBREAK",
+    "Tizim cheklovlarini buzish usuli."
+  ],
+  [
+    "K",
+    "KRIPTOGRAFIYA",
+    "Ma'lumotlarni shifrlash texnologiyasi."
+  ],
+  [
+    "L",
+    "LINUX",
+    "Kiberxavfsizlik va server boshqaruvining asosiy tizimi."
+  ],
+  [
+    "M",
+    "MALWARE",
+    "Qurilmaga zarar yetkazuvchi dastur."
+  ],
+  [
+    "N",
+    "NMAP",
+    "Tarmoqni skanerlash va xizmatlarni aniqlash vositasi."
+  ],
+  [
+    "O",
+    "OSINT",
+    "Ochiq manbalardan ma'lumot yig'ish."
+  ],
+  [
+    "P",
+    "PENTEST",
+    "Tizim xavfsizligini tekshirish."
+  ],
+  [
+    "Q",
+    "QUISHING",
+    "QR-kod orqali fishing hujumi."
+  ],
+  [
+    "R",
+    "RANSOMWARE",
+    "Ma'lumotlarni garovga oluvchi virus."
+  ],
+  [
+    "S",
+    "SQL INJECTION",
+    "Ma'lumotlar bazasiga hujum usuli."
+  ],
+  [
+    "T",
+    "TROJAN",
+    "Foydali dastur ko'rinishidagi zararli dastur."
+  ],
+  [
+    "U",
+    "URL FILTERING",
+    "Zararli havolalarni filtrlash."
+  ],
+  [
+    "V",
+    "VPN",
+    "Shifrlangan internet ulanishi."
+  ],
+  [
+    "X",
+    "XAVFSIZLINK.UZ",
+    "Havola va fayllarni tekshirish platformasi."
+  ],
+  [
+    "Y",
+    "YUBIKEY",
+    "Apparat autentifikatsiya vositasi."
+  ],
+  [
+    "Z",
+    "ZERO TRUST",
+    "Hech kimga avtomatik ishonma modeli."
+  ],
+  [
+    "O‘",
+    "OVERFLOW",
+    "Xotira chegarasidan chiqish zaifligi."
+  ],
+  [
+    "G‘",
+    "GOLDEN TICKET ATTACK",
+    "Kerberos autentifikatsiyasiga qarshi hujum."
+  ],
+  [
+    "Sh",
+    "SHIFR",
+    "Ma'lumotlarni himoyalash usuli."
+  ],
+  [
+    "Ch",
+    "CHECKPERMISSION",
+    "Fayl va tizim ruxsatlarini tekshirish."
+  ],
+  [
+    "Ng",
+    "NGFW",
+    "Yangi avlod xavfsizlik devori."
+  ]
+]

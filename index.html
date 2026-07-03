@@ -12,11 +12,14 @@
 <div id="topHelp">Posterga kamerani qarating. Rangli nuqtani bosing.</div>
 <div id="infoCard"><button id="closeBtn">×</button><div id="letter"></div><h2 id="term"></h2><p id="desc"></p></div>
 
-<a-scene mindar-image="imageTargetSrc: ./assets/targets.mind; autoStart: true; uiScanning: yes; videoSettings: { facingMode: 'environment' };"
+<a-scene mindar-image="imageTargetSrc: ./assets/targets.mind; autoStart: true; uiScanning: yes; "
   color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights"
   vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
-  <a-assets><img id="poster" src="./assets/poster.png"></a-assets>
-  
+ <a-assets>
+    <img id="poster" src="./assets/poster.png">
+</a-assets>
+
+<a-camera position="0 0 0" look-controls="enabled: false"></a-camera>
   <a-entity mindar-image-target="targetIndex: 0">
     <a-plane src="#poster" position="0 0 0" height="1.4" width="1" opacity="0.18"></a-plane>
     <a-circle class="hotspot" data-key="F" position="-0.07 0.37 0.05" radius="0.035" color="#ff3be7"></a-circle>
